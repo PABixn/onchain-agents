@@ -1,0 +1,7 @@
+{
+  "name": "Chain.Love MCP Gateway",
+  "website_url": "https://www.chain.love/mcp-gateway",
+  "category": "MCP",
+  "description": "Hosted MCP gateway at https://app.chain.love/mcp for searching a Web3 infrastructure registry and calling downstream MCP tools. Public registry discovery and session-scoped downstream credentials are supported.",
+  "relationship": "unaffiliated"
+}
